@@ -1,0 +1,9 @@
+psycopg2==2.9.9
+djangorestframework==3.14.0
+Django==5.0.1
+django-rest-swagger==2.2.0
+django-cors-headers==4.3.1
+pillow==10.2.0
+python-decouple
+drf_yasg
+setuptools
